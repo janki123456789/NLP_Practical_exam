@@ -127,12 +127,6 @@ The app lets a team member paste a tweet and instantly see:
 - 📌 Sidebar with **3 example tweets** and an *About* note
 - ⚠️ `st.warning('Please enter a tweet')` for empty input
 
-### Screenshots
-| Negative | Neutral | Positive |
-|:---:|:---:|:---:|
-| ![neg](outputs/streamlit_negative.png) | ![neu](outputs/streamlit_neutral.png) | ![pos](outputs/streamlit_positive.png) |
-
----
 
 ## 📁 Repository Structure
 
