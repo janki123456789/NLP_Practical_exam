@@ -10,7 +10,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
 
 **Classify airline tweets as Negative 😠 · Neutral 😐 · Positive 😊**
-
+</div>
 ---
 
 ## 📌 Project Overview
